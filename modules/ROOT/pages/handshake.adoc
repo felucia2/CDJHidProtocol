@@ -325,6 +325,7 @@ https://github.com/Swiftb0y/CDJHidProtocol/[this projects github repository]
 | *DJM450*      | `0x08EF3F2F1E7A9017F6AF` | --                       | `0x99D555432C70537A6F02` | -- | -- | -- | -- | -- 
 | *DJM250MK2*   | `0xD2F58B612C6206819139` | --                       | `0x59B54BFEE44A5AC8E4C5` | -- | -- | -- | -- | -- 
 | *DJM750MK2*   | `0x866E33BD04852E71ED21` | --                       | `0x490a44496383029BF371` | -- | -- | -- | -- | --
+| *CDJ3000*     | `0x0B540B224A0AD0F73177` | `0x390EAC84A745F29D7F74` | `0x1B1F3761AF3CE074E230` | -- | -- | -- | -- | --
 | *DJMV10*      | `0x3C83DB259C76FE8DB2AB` | `0x1D3EAC55C613D297623D` | `0x70014D05BEF2E4DE60D6` | -- | -- | -- | -- | --
 | *XDJXZ*       | Not supported            | `0x2D99858D0A5A913D4EBD` | 
 Captures lead me to believe that there actually is no handshake taking place in this configuration| -- | -- | -- | -- | --
