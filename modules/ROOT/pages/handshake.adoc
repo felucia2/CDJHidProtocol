@@ -329,10 +329,14 @@ https://github.com/Swiftb0y/CDJHidProtocol/[this projects github repository]
 | *DJMV10*      | `0x3C83DB259C76FE8DB2AB` | `0x1D3EAC55C613D297623D` | `0x70014D05BEF2E4DE60D6` | -- | -- | -- | -- | --
 | *XDJXZ*       | Not supported            | `0x2D99858D0A5A913D4EBD` | 
 Captures lead me to believe that there actually is no handshake taking place in this configuration| -- | -- | -- | -- | --
+| *CDJ3000X*    | -- | -- | -- | -- | -- | -- | -- | --
+| *CDJ1500X*    | -- | -- | -- | -- | -- | -- | -- | --
 |===
 
 NOTE: From my experiments, it looks like Atomix VirtualDJ actually poses
 as Rekordbox instead of using its own identifiers.
+
+NOTE: The CDJ-3000X and CDJ-1500X don't appear to require the handshake.
 
 == Keepalive
 

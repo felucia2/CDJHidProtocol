@@ -119,4 +119,5 @@ vendor Device ID for the DJM-900NXS2] Also thanks to "finn" for providing me
 their DJM-450 Rekordbox Device ID via PM. Thank you to
 https://github.com/musicmindmachine[@musicmindmachine] for
 https://github.com/Swiftb0y/CDJHidProtocol/issues/9[finding an issue in the
-handshake procedure] and correcting me.
+handshake procedure] and correcting me. Thank you to https://github.com/felucia2[felucia]
+for contributing https://github.com/Swiftb0y/CDJHidProtocol/pull/11[CDJ-3000] and other Device IDs.
