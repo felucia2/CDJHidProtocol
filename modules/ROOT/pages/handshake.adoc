@@ -344,7 +344,9 @@ Captures lead me to believe that there actually is no handshake taking place in 
 | *DDJ-XP1*     | -- | -- | `0xE176C4544F0A15BC0A90`^1^ | -- | -- | -- | -- | --
 | *DDJ-XP2*     | -- | -- | `0x2DB2BFFA0433A5D497B3`^1^ | -- | -- | -- | -- | --
 | *RBDMX1*      | -- | -- | `0x9302D5E679ED0A9EED73`^1^ | -- | -- | -- | -- | --
-| *INTERFACE2* | -- | -- | `0x0A85D9F952DC6DB0A50A`^1^ | -- | -- | -- | -- | --
+| *INTERFACE2*  | -- | -- | `0x0A85D9F952DC6DB0A50A`^1^ | -- | -- | -- | -- | --
+| *CDJ3000X*    | -- | -- | -- | -- | -- | -- | -- | --
+| *CDJ1500X*    | -- | -- | -- | -- | -- | -- | -- | --
 |===
 
 NOTE: From my experiments, it looks like Atomix VirtualDJ actually poses
@@ -352,7 +354,7 @@ as Rekordbox instead of using its own identifiers.
 
 NOTE: 1 - Device ID extrapolated from the Rekordbox binary, not individually validated using real hardware.
 
-NOTE: The CDJ-3000X and CDJ-15000X don't appear to require the handshake.
+NOTE: The CDJ-3000X and CDJ-1500X don't appear to require the handshake.
 
 == Keepalive
 
